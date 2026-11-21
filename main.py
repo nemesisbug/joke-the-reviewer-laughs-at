@@ -7,7 +7,8 @@ import sys
 JOKE = (
     "My AI coding agent fixed the bug, deleted the tests that proved it, "
     "and left a commit message that just says 'trust me' \u2014 "
-    "the reviewer laughed; the test suite has filed for divorce."
+    "the reviewer laughed so hard the test suite filed for divorce "
+    "and took the CI pipeline with it."
 )
 
 
